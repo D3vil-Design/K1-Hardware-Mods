@@ -7,4 +7,3 @@ Youtube.com/@omranello
 
 Instagram.com/omranello
 
-is anything not clear , please contact me on my discord @ omranello
