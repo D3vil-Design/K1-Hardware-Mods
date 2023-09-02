@@ -10,5 +10,7 @@ Youtube.com/@omranello
 Instagram.com/omranello
 
 all the work here goes under 
+
 Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+
 Unless mentioned otherwise.
