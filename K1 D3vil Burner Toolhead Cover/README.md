@@ -19,7 +19,7 @@ If you would like to support the team to fund future projects, you can visit us 
 - Drop in replacement for the Creality K1 - no permenant modifications!
 - Full Knomi support - view print progress real time, and add a little flair to your toolhead!
 - Customizable LED featuring the D3vil Design logo - use any LED to match the style of your setup!
-- Lightweight - xx grams **LIGHTER** than the stock toolhead, even with the Knomi! (tests using ASA/ABS+)
+- Lightweight - 3.5 grams **LIGHTER** than the stock toolhead! (tests using ASA/ABS+, stock K1 shroud at 23.8 grams, D3vil Burner printed in ASA is 20.3 grams)
 
 ## Installation Guide
 
