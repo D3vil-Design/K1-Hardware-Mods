@@ -2,7 +2,11 @@
 
 **The long awaited D3vil Burner by the D3D team, featuring Knomi support, is here!**
 
-<img style="width: 100%; height: 100%" width="100%" class="lazy" src="https://raw.githubusercontent.com/D3vil-Design/K1-Hardware-Mods/main/K1%20D3vil%20Burner%20Toolhead%20Cover/images/cover-image.jpg">
+<img style="width: 100%; height: 100%" width="100%" class="lazy" src="https://raw.githubusercontent.com/D3vil-Design/K1-Hardware-Mods/main/K1%20D3vil%20Burner%20Toolhead%20Cover/images/cover-1.jpg">
+
+<img style="width: 100%; height: 100%" width="100%" class="lazy" src="https://raw.githubusercontent.com/D3vil-Design/K1-Hardware-Mods/main/K1%20D3vil%20Burner%20Toolhead%20Cover/images/cover-2.jpg">
+
+<img style="width: 100%; height: 100%" width="100%" class="lazy" src="https://raw.githubusercontent.com/D3vil-Design/K1-Hardware-Mods/main/K1%20D3vil%20Burner%20Toolhead%20Cover/images/cover-3.jpg">
 
 ## Introduction
 
@@ -53,6 +57,8 @@ If you would like to support the team to fund future projects, you can visit us 
    5b. Connect the MX1.25 2pin to the Knomi **AND GENTLY PRY OFF THE USB PORT FROM THE KNOMI. IT DOES NOT FIT IN A STOCK SETUP**, then GENTLY (do not force, you'll crack the screen!) slide the Knomi into it's place from the back in.
 
    ##### If you are using an LED:
+
+   <img style="width: 100%; height: 100%" width="100%" class="lazy" src="https://raw.githubusercontent.com/D3vil-Design/K1-Hardware-Mods/main/K1%20D3vil%20Burner%20Toolhead%20Cover/images/wiring-example-with-led.jpg">
 
    5a. Create a three-way wire. This wire should be an MX1.25 (2pin) to MX1.25 (3pin) to V/G (whatever your LED needs) wire. Red to red to read, black to black to black according to the pinout shown on the board itself (Red to V and Black to G). We won't use the 3rd pin - this is just so we can connect it easily.
 
