@@ -21,6 +21,10 @@ If you would like to support the team to fund future projects, you can visit us 
 - Customizable LED featuring the D3vil Design logo - use any LED to match the style of your setup!
 - Lightweight - 3.5 grams **LIGHTER** than the stock toolhead! (tests using ASA/ABS+, stock K1 shroud at 23.8 grams, D3vil Burner printed in ASA is 20.3 grams)
 
+## Support
+
+Join our [Discord](https://discord.gg/vPr5DjfHUJ) to chat with the team and find support for this product and anything else that D3D puts out :)
+
 ## Installation Guide
 
 1. Download and print both STLs in this folder - the toolhead cover and the D3D logo. Recommended print settings for each are as follows:
