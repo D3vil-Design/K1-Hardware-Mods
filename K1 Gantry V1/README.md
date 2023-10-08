@@ -77,5 +77,6 @@ If you would like to support the team and future projects, consider visiting our
 - Make sure the inserts sit flush and that you don't heat the surrounding plastic more than necessary
 - Insert two M3 Hex Nuts into the appropriate slots for the belt tensioners 
 - Use M5x5mm grub screws to hold the 4mm shafts in the front idler mounts and the Y axis rods on all mounts
+- Snug the Y rod grub screws after installing the gantry in the printer
 
 ![Screenshot (70)](https://github.com/D3vil-Design/K1-Hardware-Mods/assets/145330457/e6d94be0-4822-4783-b19c-1861868c4be3)
