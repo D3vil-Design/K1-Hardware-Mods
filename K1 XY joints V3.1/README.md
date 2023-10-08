@@ -1,9 +1,12 @@
+# D3D K1 XY Joint V3.3 "Updated"
+
+## NOTE:
+IF YOU DOWNLOADED V3.1 , YOU NEED TO REPRINT V3.3 (will be uploaded soon ) since V3.1 had some tolerances issues .
+
 # D3D K1 XY Joint V3.1
 
 **This is a work in progress.**
 
-## NOTE:
-IF YOU DOWNLOADED V3.1 , YOU NEED TO REPRINT V3.3 (will be uploaded soon ) since V3.1 had some tolerances issues .
 
 To see how this was made and used, please watch the following video:
 
