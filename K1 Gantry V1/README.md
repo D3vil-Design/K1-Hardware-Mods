@@ -49,6 +49,7 @@ If you would like to support the team and future projects, consider visiting our
 - Infill: 50% (minimum)
 - Brim
 
+![Screenshot (69)](https://github.com/D3vil-Design/K1-Hardware-Mods/assets/145330457/a232fff0-42cb-4680-a51b-fac00a7ad8e8)
 
 
 ## USEFUL LINKS
