@@ -38,10 +38,10 @@ If you would like to support the team and future projects, consider visiting our
 ## PRINT SETTINGS
 
 - ABS or better
-- Supports needed (Stepper Mounts only)
-   - tree
-   - top Z distance: 0
-   - top interface layers ON
+- Supports needed (stepper mounts only)
+   - Tree
+   - Top Z distance: 0
+   - Top interface layers ON
 - Layer Height: 0.2
 - Layer Width: 0.4
 - Wall Loops: 5 (minimum)
