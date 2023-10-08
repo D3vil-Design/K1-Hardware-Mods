@@ -25,6 +25,12 @@ If you would like to support the team to fund future projects, you can visit us 
 
 Join our [Discord](https://discord.gg/vPr5DjfHUJ) to chat with the team and find support for this product and anything else that D3D puts out :)
 
+## Knomi 
+
+for those who asked, you can purchase Knomi directly from the (non affiliate) link below 
+https://biqu.equipment/collections/lcd/products/bigtreetech-knomi-v1-0
+
+
 ## Installation Guide
 
 1. Download and print both STLs in this folder - the toolhead cover and the D3D logo. Recommended print settings for each are as follows:
@@ -37,7 +43,9 @@ Join our [Discord](https://discord.gg/vPr5DjfHUJ) to chat with the team and find
    - Walls: 3
    - Top/Bottom Layers: 3
    - Supports required (Top Z distance somewhere around 0.15)
+   - orientation: print it facing up for the best results. 
    - Color: Your Choice!
+     
 
    ##### D3vil Burner D3D Logo
 
