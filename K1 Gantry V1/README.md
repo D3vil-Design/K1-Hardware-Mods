@@ -1,4 +1,4 @@
-# K1 Gantry V1
+# K1 Gantry V1.0
 ![ezgif-1-8112f4f848](https://github.com/D3vil-Design/K1-Hardware-Mods/assets/145330457/24f24746-3b3c-46f9-b3d4-d59ff084c8b3)
 ![20231004_113554](https://github.com/D3vil-Design/K1-Hardware-Mods/assets/145330457/f5b18600-0685-4daa-a183-9a1c6c6be0a8)
 
