@@ -11,7 +11,7 @@ Also consider joining our [Discord](https://discord.gg/vPr5DjfHUJ)
 
 ## IMPORTANT
  
- 1. Consider this a WIP
+ 1. Consider this a WORK IN PROGRESS
  2. You are downloading/installing this mod willingly
  3. We are not reponsible/liable for any damage caused
  4. Do not use heat inserts shorter than the recommended
