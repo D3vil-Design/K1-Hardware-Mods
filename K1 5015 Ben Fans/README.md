@@ -4,7 +4,7 @@
 
 
 ## INTRODUCTION
-I made this mod to help with heating the enclosure. It uses one or two 5015 24V blowers. I have the fans wired in parallel using the exhaust fan port since I don't use it (up to you). These bed fans were tested using an AC bed (110V, 500W). Chamber temps reached 60°c in just under 5 minutes and sabilized at 70°c in 10 minutes. The bed fans can work with the factory bed/bed heater but it won't be as effective. 
+I made this mod to help with heating the enclosure. It uses one or two 5015 24V blowers. I have the fans wired in parallel using the exhaust fan port since I don't use it (up to you). These bed fans were tested using an AC bed (110V, 500W) and the printer completely sealed. Chamber temps reached 60°c in just under 5 minutes and sabilized at 70°c in 10 minutes. The bed fans can work with the factory bed/bed heater but it won't be as effective. 
 
 If you would like to support the team and future projects, consider visiting our [Patreon](https://www.patreon.com/D3vilDesign). We will be posting behind the scene projects in the future, beta access projects and other exclusive content to our [Patreon](https://www.patreon.com/D3vilDesign) supporters. All funds go directly to the development and support of the D3vil Design Team!
 
