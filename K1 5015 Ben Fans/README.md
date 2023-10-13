@@ -44,7 +44,7 @@ Also consider joining our [Discord](https://discord.gg/vPr5DjfHUJ)
 
 # INSTRUCTIONS
 
-1. Remove the four M4 (or M5 🤨) screws holding the bed plate down (pictured)
+1. Remove the four M4 (or M5 🤨) screws holding the bed plate down (pictured below)
 2. Remove the front 4 M3x6mm screws on the pressure sensor
 3. Mount the brackets using M3x20mm screws
 4. Solder the fan cables into a Y-splitter (parallel)
