@@ -20,6 +20,7 @@ Also consider joining our [Discord](https://discord.gg/vPr5DjfHUJ)
  5. Keep wires away from the Z belt in the bottom compartment
  6. Fan Mounts need 8mm of clearance under the bed/bed heater
  7. Fan mounts might not be compatible with some screen hole sealers
+ 8. Have not been tested in the K1 Max. I don't see a reason why they wouldn't work
 
 
 ## BOM
