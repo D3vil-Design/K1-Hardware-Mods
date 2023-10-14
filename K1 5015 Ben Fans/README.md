@@ -2,6 +2,7 @@
 
 ![20231012_155943](https://github.com/D3vil-Design/K1-Hardware-Mods/assets/145330457/fd37e89d-60dc-441f-81ba-99080f510d08)
 
+![20231013_205729](https://github.com/D3vil-Design/K1-Hardware-Mods/assets/145330457/0f33dc44-539e-4d77-9d3f-4eb2ba4c735f)
 
 ## INTRODUCTION
 I made this mod to help with heating the enclosure. It uses one or two 5015 24V blowers. I have the fans wired in parallel using the exhaust fan port since I don't use it (up to you). These bed fans were tested using an AC bed (110V, 500W) and the printer completely sealed. The bed fans can work with the factory bed/bed heater but it won't be as effective. 
