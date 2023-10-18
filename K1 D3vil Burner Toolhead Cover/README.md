@@ -74,14 +74,16 @@ https://biqu.equipment/collections/lcd/products/bigtreetech-knomi-v1-0
 
    5a. Create a three-way wire. This wire should be an MX1.25 (2pin) to MX1.25 (3pin) to V/G (whatever your LED needs) wire. Red to red to read, black to black to black according to the pinout shown on the board itself (Red to V and Black to G). We won't use the 3rd pin - this is just so we can connect it easily.
 
+    <img style="width: 100%; height: 100%" width="100%" class="lazy" src="https://raw.githubusercontent.com/D3vil-Design/K1-Hardware-Mods/main/K1%20D3vil%20Burner%20Toolhead%20Cover/images/db connector.jpg">
+
    5b. Solder or attach your V/G to your LED - the voltage is 5V coming from the toolboard - make sure your LED supports this or use a resistor.
 
    5c. There are two slots where you can lay your wires to prop up the LED. Attach those and prop your LED against the D3D logo piece.
 
    5d. Connect the MX1.25 2pin to the Knomi **AND GENTLY PRY OFF THE USB PORT FROM THE KNOMI. IT DOES NOT FIT IN A STOCK SETUP**, then GENTLY (do not force, you'll crack the screen!) slide the Knomi into it's place from the back in.
 
-6. Slide the fan against the Knomi and attach the fan using the stock screws.
-7. Connect the other end of the Knomi wire to the free filament sensor port on the toolhead board (again, outlined on the pinout shown on the board, Red to V and Black to G).
-8. Re-attach the fan wire to the toolhead board.
-9. Slide the D3vil Burner on to the toolhead and re-attach using the stock screws.
-10. Voíla! Re-run input shaping, connect your Knomi following [BTT's instructions](https://github.com/bigtreetech/KNOMI/blob/master/KNOMI_USER_GUIDE.pdf), and you're set!
+7. Slide the fan against the Knomi and attach the fan using the stock screws.
+8. Connect the other end of the Knomi wire to the free filament sensor port on the toolhead board (again, outlined on the pinout shown on the board, Red to V and Black to G).
+9. Re-attach the fan wire to the toolhead board.
+10. Slide the D3vil Burner on to the toolhead and re-attach using the stock screws.
+11. Voíla! Re-run input shaping, connect your Knomi following [BTT's instructions](https://github.com/bigtreetech/KNOMI/blob/master/KNOMI_USER_GUIDE.pdf), and you're set!
