@@ -12,8 +12,6 @@
 
 D3vil Design is proud to release the D3vil Burner toolhead cover for the Creality K1 for **free**. Packed with features, the team has worked meticulously to make sure that the cover is ready for release and as easy as a drop-in as possible with the limited space in the stock Creality K1 toolhead setup.
 
-If you would like to support the team to fund future projects, you can visit us at our [Patreon](https://www.patreon.com/D3vilDesign). We will begin posting behind the scenes projects, beta access to projects in flight, and more exclusively for our [Patreon](https://www.patreon.com/D3vilDesign) supporters. If you're interested in more K1 work (and some "top secret" work outside of the K1 😉), please consider [supporting the team](https://www.patreon.com/D3vilDesign). All funds go directly to the development and support of the D3vil Design team!
-
 ## Features
 
 - Drop in replacement for the Creality K1 - no permenant modifications!
@@ -86,4 +84,9 @@ https://biqu.equipment/collections/lcd/products/bigtreetech-knomi-v1-0
 8. Connect the other end of the Knomi wire to the free filament sensor port on the toolhead board (again, outlined on the pinout shown on the board, Red to V and Black to G).
 9. Re-attach the fan wire to the toolhead board.
 10. Slide the D3vil Burner on to the toolhead and re-attach using the stock screws.
-11. Voíla! Re-run input shaping, connect your Knomi following [BTT's instructions](https://github.com/bigtreetech/KNOMI/blob/master/KNOMI_USER_GUIDE.pdf), and you're set!
+11. Voíla! Re-run input shaping, connect your Knomi following [BTT's instructions](https://github.com/bigtreetech/KNOMI/blob/master/KNOMI_USER_GUIDE.pdf).
+12. NOTE: When connecting to Knomi Via wifi, in the setup screen, you will have to Add the IP address of your Printer ( Since this only works with Rooted Printers ) you will have to add the IP and the Port (ex: 192.168.1.10:4408 ).
+
+And you're set!
+
+If you would like to support the team to fund future projects, you can visit us at our [Patreon](https://www.patreon.com/D3vilDesign). We will begin posting behind the scenes projects, beta access to projects in flight, and more exclusively for our [Patreon](https://www.patreon.com/D3vilDesign) supporters.
