@@ -35,8 +35,8 @@ Also consider joining our [Discord](https://discord.gg/vPr5DjfHUJ)
 
   
 
-## Last updated: Oct 24, 2023
--Added additional heat insert hole in the back for rigidity. This would require you to drill out the threads and use a M3x10 FHCS screw
+## LAST UPDATED: Oct 24, 2023
+-V1.01 Added additional heat insert hole in the back for rigidity. This would require you to drill out the threads and use a M3x10 FHCS screw
 
 
 
