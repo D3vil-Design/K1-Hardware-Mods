@@ -1,4 +1,4 @@
-# K1 Gantry V1.0
+# K1 Gantry V1.01
 ![ezgif-1-8112f4f848](https://github.com/D3vil-Design/K1-Hardware-Mods/assets/145330457/24f24746-3b3c-46f9-b3d4-d59ff084c8b3)
 ![20231004_113554](https://github.com/D3vil-Design/K1-Hardware-Mods/assets/145330457/f5b18600-0685-4daa-a183-9a1c6c6be0a8)
 
@@ -32,6 +32,11 @@ Also consider joining our [Discord](https://discord.gg/vPr5DjfHUJ)
 
 *Optional*
 - x4 - M3x18mm SHCS screws w/ M3 Washer (belt tensioner)
+
+  
+
+## Last updated: Oct 24, 2023
+-Added additional heat insert hole in the back for rigidity. This would require you to drill out the threads and use a M3x10 FHCS screw
 
 
 
