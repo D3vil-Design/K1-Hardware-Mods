@@ -2,6 +2,7 @@
 
 ![ezgif-3-a89995acc8](https://github.com/D3vil-Design/K1-Hardware-Mods/assets/145330457/475cc206-f42c-472a-8ee5-146243c41500)
 
+![20231031_133840](https://github.com/D3vil-Design/K1-Hardware-Mods/assets/145330457/8a0353cc-63a8-4090-a15d-ccf6a3a0fe3d)
 
 ## INTRODUCTION
 Main reason for the creation of this mod was to fix the issue of the gantry not being square in my machine throwing off the mesh. It has since fixed the "unlevel" or "warped" bed and has also resulted in quieter operation of the printer. Having a custom gantry also opens the door to future upgrades/mods. These mounts have gone through weeks of testing and have proven to be more than capable of handling the K1. 
