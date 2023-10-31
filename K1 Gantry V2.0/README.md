@@ -36,7 +36,6 @@ Also consider joining our [Discord](https://discord.gg/vPr5DjfHUJ)
 - x16 - M3x8mm FHCS Screws (frame)
 - x2 - M3x10mm FHCS Screws (frame)
 - x4 - M5x5mm Grub Screws (Y rods)
-
 - M3 Washers
 - x4 - M3x6mm BHCS Screws
 - x4 - M3x8mm SHCS Screws
