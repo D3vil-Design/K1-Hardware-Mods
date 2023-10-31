@@ -29,7 +29,21 @@ Also consider joining our [Discord](https://discord.gg/vPr5DjfHUJ)
 
 ## BOM
 
-- WIP
+- x8 - 16T Toothless 3mm Bore pulleys 8.5x13mm (see pictures)
+- x2 - 20T Timing Gear (see pictures)
+- x18 - M3x6x5mm Heat Inserts (frame)
+- x2 - M3x4x5mm Heat Inserts (belt tensioners)
+- x16 - M3x8mm FHCS Screws (frame)
+- x2 - M3x10mm FHCS Screws (frame)
+- x4 - M5x5mm Grub Screws (Y rods)
+
+- M3 Washers
+- x4 - M3x6mm BHCS Screws
+- x4 - M3x8mm SHCS Screws
+- x2 - M3x20mm BHCS Screws
+- x2 - M3x20mm SHCS Screws
+- x2 - M3x30mm SHCS Screws
+- x2 - M3x35mm SHCS Screws
 
   
 
