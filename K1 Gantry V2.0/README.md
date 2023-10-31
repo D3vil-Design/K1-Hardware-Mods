@@ -24,6 +24,7 @@ Also consider joining our [Discord](https://discord.gg/vPr5DjfHUJ)
  4. Do not use heat inserts shorter than the recommended
  5. Just because it fixed my issues it does not mean it will fix yours
  6. This mod does not use factory steppers or hardware
+ 7. The 20T timing gears are 20mm tall
 
 
 
