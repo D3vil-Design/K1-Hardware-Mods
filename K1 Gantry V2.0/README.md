@@ -99,3 +99,4 @@ Also consider joining our [Discord](https://discord.gg/vPr5DjfHUJ)
 
 ![Untitled design (1)](https://github.com/D3vil-Design/K1-Hardware-Mods/assets/145330457/8325d35b-5e94-4910-8e5a-144959c1d55e)
 
+![20231031_134104](https://github.com/D3vil-Design/K1-Hardware-Mods/assets/145330457/2ca411f0-cd67-4cef-8942-e0dab0cb3d54)
