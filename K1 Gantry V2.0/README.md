@@ -52,6 +52,7 @@ Also consider joining our [Discord](https://discord.gg/vPr5DjfHUJ)
 - Infill: 50% (minimum)
 - Brim
 
+
 ![Screenshot (82)](https://github.com/D3vil-Design/K1-Hardware-Mods/assets/145330457/6eaa71a6-b0f3-469a-9d04-f10e14413038)
 
 
