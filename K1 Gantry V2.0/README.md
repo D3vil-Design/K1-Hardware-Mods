@@ -93,7 +93,9 @@ Also consider joining our [Discord](https://discord.gg/vPr5DjfHUJ)
 - Rigidity is important. Print the mounts using the recommended print settings or better
 - Push the heat-set inserts into place as straight as possible or you will end up with alignment issues with the holes in the frame
 - Make sure the inserts sit flush and that you don't heat the surrounding plastic more than necessary
+- The stepper motors need to be screwed into the mounts before the pulleys
 - Use M5x5mm grub screws to hold the Y axis rods on all mounts
 - Snug the Y rod grub screws after installing the gantry in the printer
 
+![Untitled design (1)](https://github.com/D3vil-Design/K1-Hardware-Mods/assets/145330457/8325d35b-5e94-4910-8e5a-144959c1d55e)
 
