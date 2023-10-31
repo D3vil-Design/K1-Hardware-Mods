@@ -44,7 +44,9 @@ Also consider joining our [Discord](https://discord.gg/vPr5DjfHUJ)
 - x2 - M3x30mm SHCS Screws
 - x2 - M3x35mm SHCS Screws
 
-  
+
+![Untitled design](https://github.com/D3vil-Design/K1-Hardware-Mods/assets/145330457/70331970-2a5b-4686-95f6-08eb57c7ec31)
+
 
 ## LAST UPDATED: Oct 30, 2023
 
