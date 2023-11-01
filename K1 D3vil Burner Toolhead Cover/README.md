@@ -94,7 +94,7 @@ If you would like to support the team to fund future projects, you can visit us 
 -----------
 If you wish to activate the Homing Macro please check the update below 
 
-Thanks to .... 
+Thanks to [.... ](https://github.com/nephilim667)
 
 For homing, if you put macro as it, it will throw an error 'G28 is called recursively'.
 I have found that come from macro defined in sensorless.cfg
