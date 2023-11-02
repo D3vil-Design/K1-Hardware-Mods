@@ -25,6 +25,8 @@ Also consider joining our [Discord](https://discord.gg/vPr5DjfHUJ)
  5. Just because it fixed my issues it does not mean it will fix yours
  6. This mod does not use factory steppers or hardware
  7. The 20T timing gears are 20mm tall
+ 8. You will need to change the rotation distance accordingly (40 for 20T Timing Gear)
+ 9. You will need to tune sensorless homing
 
 
 
