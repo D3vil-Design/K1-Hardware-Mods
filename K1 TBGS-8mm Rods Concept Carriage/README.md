@@ -8,6 +8,8 @@
 
 This is a concept carriage to be used with the V2 Gantry. THIS IS STILL IN TESTING.
 
+Consider joining our [Discord](https://discord.gg/vPr5DjfHUJ)
+
 6:16 Benchy using V2 Gantry & Concept Carriage - [YouTube](https://www.youtube.com/watch?v=GfOL87u7CSw&ab_channel=DerrickDarrell)
 
 # IMPORTANT
