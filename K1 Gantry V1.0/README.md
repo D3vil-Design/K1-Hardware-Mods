@@ -5,6 +5,8 @@
 ## INTRODUCTION
 Main reason for the creation of this mod was to fix the issue of the gantry not being square in my machine throwing off the mesh. It has since fixed the "unlevel" or "warped" bed and has also resulted in quieter operation of the printer. Having a custom gantry also opens the door to future upgrades/mods. These mounts have gone through weeks of testing and have proven to be more than capable of handling the K1.
 
+The V1 Gantry uses the factory steppers, pulleys and other hardware. The V2 does not.
+
 If you would like to support the team and future projects, consider visiting our [Patreon](https://www.patreon.com/D3vilDesign). We will be posting behind the scene projects in the future, beta access projects and other exclusive content to our [Patreon](https://www.patreon.com/D3vilDesign) supporters. All funds go directly to the development and support of the D3vil Design Team!
 
 Also consider joining our [Discord](https://discord.gg/vPr5DjfHUJ)
