@@ -23,7 +23,8 @@ This is a concept carriage to be used with the V2 Gantry. THIS IS STILL IN TESTI
 - You will need to edit your 'position_max' and 'mesh_max' as the nozzle hangs about 1mm past the bed in the rear
 - Bottom left PCB screw will need a spacer
 - The joints use the same pulleys and grub screws as the V2 Gantry
-- Check [Knomi Shroud](https://www.printables.com/model/594021-creality-k1-k1-max-knomi-covershroud)
+- You will need to use the custom knomi shroud with longer air ducts
+- Check the instructions in [Printables](https://www.printables.com/model/594021-creality-k1-k1-max-knomi-covershroud0)
 
 
 # BOM
