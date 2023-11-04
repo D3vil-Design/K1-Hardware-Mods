@@ -9,6 +9,8 @@ Main reason for the creation of this mod was to fix the issue of the gantry not 
 
 With the V2 Gantry, replacing the factory steppers and 36t timing gears resulted in a massive drop in vibrations in the gantry. Moving the belt tensioners to the front idler mounts has also made it much easier to tension the belts and fixed the issue of the factory tensioner buckling in the factory stepper mounts.
 
+The V1 Gantry uses the factory steppers, pulleys and other hardware. The V2 does not.
+
 If you would like to support the team and future projects, consider visiting our [Patreon](https://www.patreon.com/D3vilDesign). We will be posting behind the scene projects in the future, beta access projects and other exclusive content to our [Patreon](https://www.patreon.com/D3vilDesign) supporters. All funds go directly to the development and support of the D3vil Design Team!
 
 Also consider joining our [Discord](https://discord.gg/vPr5DjfHUJ)
