@@ -6,7 +6,7 @@
 
 # INTRODUCTION
 
-This is a concept carriage to be used with the V2 Gantry. This is still in testing. 
+This is a concept carriage to be used with the V2 Gantry. THIS IS STILL IN TESTING.
 
 6:16 Benchy using V2 Gantry & Concept Carriage - [YouTube](https://www.youtube.com/watch?v=GfOL87u7CSw&ab_channel=DerrickDarrell)
 
@@ -21,6 +21,7 @@ This is a concept carriage to be used with the V2 Gantry. This is still in testi
 - You will lose 7mm in the y axis (front of bed)
 - You will need to comment out 'CX_NOZZLE_CLEAR' in the 'gcode_macro.cfg'
 - You will need to edit your 'position_max' and 'mesh_max' as the nozzle hangs about 1mm past the bed in the rear
+- Bottom left PCB screw will need a spacer
 
 
 # BOM
