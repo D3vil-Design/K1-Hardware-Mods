@@ -29,7 +29,7 @@ Also consider joining our [Discord](https://discord.gg/vPr5DjfHUJ)
  7. The 20T timing gears are 20mm tall
  8. You will need to change the rotation distance accordingly (40 for 20T Timing Gear)
  9. You will need to tune sensorless homing
-
+ 10. Will not work with factory door hinges (check 'USEFUL LINKS')
 
 
 ## BOM
@@ -83,6 +83,7 @@ Also consider joining our [Discord](https://discord.gg/vPr5DjfHUJ)
 
 [How to use heat inserts](https://ultimaker.com/learn/how-to-use-heat-set-inserts-to-securely-fasten-3d-printed-parts/)
 
+[270° Door Hinges](https://www.printables.com/model/526107-creality-k1-270deg-door-hinges-w-door-latch)
 
 
 ## OTHER RECOMMENDED MODS
