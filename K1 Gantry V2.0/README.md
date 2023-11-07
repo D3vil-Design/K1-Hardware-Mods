@@ -85,6 +85,8 @@ Also consider joining our [Discord](https://discord.gg/vPr5DjfHUJ)
 
 [270° Door Hinges](https://www.printables.com/model/526107-creality-k1-270deg-door-hinges-w-door-latch)
 
+[Tune Sensorless Homing](https://www.klipper3d.org/TMC_Drivers.html?h=sensorless#sensorless-homing)
+
 
 ## OTHER RECOMMENDED MODS
 
