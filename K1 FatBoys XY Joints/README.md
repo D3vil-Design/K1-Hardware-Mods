@@ -17,13 +17,16 @@ Be advised to use the same M5x5mm grub screw to hold the rods in place instead o
 changes might be needed to the printer.cfg file
 
 For the K1:
+
 change the [stepper_x] values below:
-.
-.
-.
+
+
 position_endstop: 226  ##stock value was 229
+
 position_min: 0        ##stock value was -5
+
 position_max: 226      ##stock value was 229
+
 
 NOTE: the idea is to move you toolhead to X=10 and test move it from there 1mm at a time to see where the x carriage will touch the left XY joint.
 
