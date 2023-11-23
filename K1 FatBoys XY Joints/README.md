@@ -6,7 +6,7 @@
 <img style="width: 100%; height: 100%" width="100%" class="lazy" src="https://github.com/D3vil-Design/K1-Hardware-Mods/blob/main/K1%20FatBoys%20XY%20Joints/fatboys%20Images/Untitled%203.png?raw=true">
 
 
-Kindly if you dont know what you are doing , ask in our [Discord](discord.gg/d3vil-design) server
+Kindly if you dont know what you are doing , ask in our [Discord](https://discord.gg/d3vil-design) server
 
 This joint are bigger by 5mm in both side which means it will reduce the overall X movment in the gantry on the K1 from 235 to 225 ( same build size ) 
 - they can be used with the stock idlers ( if you are using the 8mm belt )
