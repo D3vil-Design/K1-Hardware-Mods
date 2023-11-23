@@ -21,7 +21,7 @@ D3vil Design is proud to release the D3vil Burner toolhead cover for the Crealit
 
 ## Support
 
-Join our [Discord](https://discord.gg/vPr5DjfHUJ) to chat with the team and find support for this product and anything else that D3D puts out :)
+Join our [Discord](https://discord.gg/d3vildesign) to chat with the team and find support for this product and anything else that D3D puts out :)
 
 ## Knomi 
 
