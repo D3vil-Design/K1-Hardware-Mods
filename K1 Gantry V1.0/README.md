@@ -9,7 +9,7 @@ The V1 Gantry uses the factory steppers, pulleys and other hardware. The V2 does
 
 If you would like to support the team and future projects, consider visiting our [Patreon](https://www.patreon.com/D3vilDesign). We will be posting behind the scene projects in the future, beta access projects and other exclusive content to our [Patreon](https://www.patreon.com/D3vilDesign) supporters. All funds go directly to the development and support of the D3vil Design Team!
 
-Also consider joining our [Discord](https://discord.gg/d3vildesign)
+Also consider joining our [Discord](https://discord.gg/d3vil-design)
 
 ## IMPORTANT
  
@@ -60,7 +60,7 @@ Also consider joining our [Discord](https://discord.gg/d3vildesign)
 
 
 ## USEFUL LINKS
-[D3vil Design Team Discord](https://discord.gg/vPr5DjfHUJ)
+[D3vil Design Team Discord](https://discord.gg/d3vil-design)
 
 [How to use heat inserts](https://ultimaker.com/learn/how-to-use-heat-set-inserts-to-securely-fasten-3d-printed-parts/)
 
