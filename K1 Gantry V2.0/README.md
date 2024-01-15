@@ -30,6 +30,7 @@ Also consider joining our [Discord](https://discord.gg/d3vil-design)
  8. You will need to change the rotation distance accordingly (40 for 20T Timing Gear)
  9. You will need to tune sensorless homing
  10. Will not work with factory door hinges (check 'USEFUL LINKS')
+ 11. Not 100% compatible with the FatBoy joints. Belts touch the housing slightly. I recommend sticking with Omran's regular joints (v3.3)
 
 
 ## BOM
