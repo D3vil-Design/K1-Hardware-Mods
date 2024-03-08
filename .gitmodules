@@ -1,3 +1,4 @@
 [submodule "Cyclops-Extruder"]
 	path = Cyclops-Extruder
 	url = https://github.com/D3vil-Design/Cyclops-Extruder.git
+	branch = main
